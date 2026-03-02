@@ -1,0 +1,4 @@
+124,kitv1232,vijay,automata,fct@pass
+234,VIDV1234,arungoyal,math,vidya@pass
+125,MGKVPF102,ratnesh,autometa,fctmgk@234
+125,MGKVPF102,ramcharnSingh,MATH,fctmgk@234

@@ -1,0 +1,6 @@
+name,secA,A
+harsh,secA,P
+yash,SecA,A
+yashu,SecA,P
+harsh,SecA,P
+ramesh,SecA,A
